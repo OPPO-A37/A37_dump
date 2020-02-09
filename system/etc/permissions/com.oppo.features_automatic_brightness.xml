@@ -1,0 +1,6 @@
+<!-- #ifdef VENDOR_EDIT -->
+<!--mengxianheng@Swdp.Android.Power&Timer, 2015/06/25, add for oppo.brightness.mode.automatic -->
+<permissions>
+    <feature name="oppo.brightness.mode.automatic" />
+</permissions>
+<!-- #endif //VENDOR_EDIT -->

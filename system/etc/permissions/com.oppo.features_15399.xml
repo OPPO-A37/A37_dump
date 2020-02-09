@@ -1,0 +1,31 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+
+<permissions>
+	<feature name="oppo.feature.15399" />
+	<feature name="oppo.qualcomm.gemini.support" />
+	<feature name="oppo.memory.auto.clean" />
+	<!-- <feature name="oppo.breath.light.support" /> -->
+	<feature name="oppo.eye.protection.support" />
+	<!-- Tong.han@BSP.Group.Tp, 2014/09/26, Add for OTG switch support -->
+	<feature name="oppo.otg.connection.menu.support" />
+	<feature name="oppo.screen.hovering.support" />
+	<feature name="oppo.black.gesture.proximitysensor.support" />
+	<!-- LinJie.Xu@Swdp.Android.USB, 2014/09/26, Add for Camera support camera quick shot -->
+	<feature name="oppo.quick.shot.support" />
+        <feature name="oppo.sw.solution.rom" />
+        <feature name="oppo.soundeffect.support" />
+        <feature name="oppo.dirac_bluetooth.spport" />
+        <feature name="oppo.gallery.opencabc" />
+        <feature name="oppo.qcom.hotswap" />
+        <feature name="oppo.disable.small.window.leather" />
+        <feature name="oppo.exfat.support" />
+        <feature name="android.hardware.usb.host" />
+        <feature name="oppo.app2sd.disabled" />
+        <feature name="color.longshot" />
+        <feature name="oppo.leather.proximity.sensor.support" />
+		<!-- #ifdef VENDOR_EDIT -->
+		<!--Yisheng.Wu@EXP.CommService.phone,2015/12/05,Add for not support hotplug-->
+		<feature name="oppo.commcenter.reboot.dialog" />
+		<!-- #endif //VENDOR_EDIT -->
+   <feature name="oppo.version.exp" />
+</permissions>

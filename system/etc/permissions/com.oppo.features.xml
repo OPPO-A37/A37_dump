@@ -1,0 +1,24 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<!-- COLOR_EDIT.  add oppo.screen.hovering.support ;remove oppo.narrow.frame -->
+<permissions>
+	<feature name="oppo.hw.manufacturer.qualcomm" />
+	<feature name="oppo.sw.solution.device" />
+	<!-- #ifdef VENDOR_EDIT -->
+	<!--jinke.zhou@EXP.SysFramework.build , 20160227, delete no used features-->
+	<!--feature name="oppo.inexact.alarm" /-->
+	<feature name="oppo.filtrated.app" />
+	<!--feature name="oppo.multi.touch.camera.support" /-->
+	<!--feature name="oppo.double.flinger.volume.support" /-->
+	<!-- #endif //VENDOR_EDIT -->
+	<feature name="oppo.support.single.partition" />
+	<feature name="oppo.memory.auto.deep.clean" />
+	<feature name="oppo.memory.auto.clean" />
+	<feature name="oppo.guard.elf.support" />
+	<!-- #ifdef VENDOR_EDIT -->
+	<!--ShaoQiang@EXP.SysFramework.Framework, 2016/03/08, Add for MSM8939 not support two sign keys, make confirmatition this code was needed or not for other platform when transplanting!-->
+	<feature name="oppo.ota.twokey.not.support" />
+	<!-- #ifdef VENDOR_EDIT -->
+	<!-- Yinqi.Xiong@Swdp.Android.Performance.Power, 2016/09/07, add for net wake up control: -->
+	<feature name="oppo.performance.power.netwake"  />
+        <feature name="oppo.Align.alarm.support" />
+</permissions>

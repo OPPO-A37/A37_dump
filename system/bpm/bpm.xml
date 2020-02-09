@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<gs>
+    <!-- Instant Messaging -->
+    <p att="com.baidu.BaiduMap"></p>
+    <p att="com.yy.yymeet"></p>
+    <p att="com.sogou.map.android.maps"></p>
+    <p att="com.autonavi.xmgd.navigator"></p>
+    <p att="com.tencent.mm"></p>
+    <p att="com.immomo.momo"></p>
+    <p att="com.tencent.mobileqq"></p>
+    <p att="com.sina.weibo"></p>
+    <p att="com.tencent.qqphonebook"></p>
+    <p att="com.tencent.Wblog"></p>
+    <p att="jp.naver.line.android"></p>
+    <p att="com.oppo.wearable"></p>
+    <p att="com.oppo.ubeauty"></p>
+
+    <!-- add for the oppo app  -->
+    <p att="com.nearme.note"></p>
+    <p att="com.oppo.ubeauty"></p>
+    <p att="com.tencent.tvoem"></p>
+
+    <!--ifdef VENDOR_EDIT  -->
+    <!--Yujie.Wei@EXp.GeneralApp.bpm. 2016/11/04, add for exp  -->
+    <p att="com.bbm"></p>
+    <p att="com.facebook.katana"></p>
+    <p att="com.instagram.android"></p>
+    <p att="com.kakao.talk"></p>
+    <p att="kik.android"></p>
+    <p att="jp.naver.line.android"></p>
+    <p att="com.facebook.orca"></p>
+    <p att="com.path"></p>
+    <p att="com.skype.raider"></p>
+    <p att="com.skype.rover"></p>
+    <p att="com.snapchat.android"></p>
+    <p att="com.sgiggle.production"></p>
+    <p att="com.twitter.android"></p>
+    <p att="com.viber.voip"></p>
+    <p att="com.whatsapp"></p>
+    <p att="com.yahoo.mobile.client.android.im"></p>
+    <p att="com.zing.zalo"></p>
+    <p att="com.beetalk"></p>
+    <p att="com.waze"></p>
+    <p att="com.mobileiron"></p>
+    <p att="com.tencent.mobileqqi"></p>
+    <p att="com.bsb.hike"></p>
+    <p att="com.truecaller"></p>
+    <p att="com.truecaller.phoneapp"></p>
+    <p att="com.imo.android.imoim"></p>
+    <p att="com.imo.android.imoimbeta"></p>
+    <p att="com.truecaller.messenger"></p>
+    <p att="com.bbm2"></p>
+    <p att="com.bbm3"></p>
+    <p att="com.bbm4"></p>
+    <p att="com.bbm5"></p>
+    <p att="com.bbm6"></p>
+    <p att="com.bbm7"></p>
+    <p att="com.google.android.keep"></p>
+    <p att="com.microsoft.office.outlook"></p>
+    <p att="com.zhiliaoapp.musically"></p>
+    <p att="com.mxtech.videoplayer.ad"></p>
+    <p att="org.videolan.vlc"></p>
+    <p att="com.gojek.app"></p>
+    <p att="com.grabtaxi.driver2"></p>
+    <p att="com.olacabs.customer"></p>
+    <p att="com.ubercab.driver"></p>
+    <p att="com.quvideo.xiaoying"></p>
+    <p att="com.domobile.applock"></p>
+    <p att="com.appstar.callrecorder"></p>
+    <p att="com.jio.join"></p>
+    <p att="com.jiochat.jiochatapp"></p>
+    <p att="com.facebook.lite"></p>
+    <!--endif /*VENDOR_EDIT*/	 -->
+</gs>

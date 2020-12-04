@@ -1,0 +1,820 @@
+12-04 15:26:24:795 Art version=45 (am.odex)
+12-04 15:26:24:795 De-optimizing /system/framework/am.jar
+12-04 15:26:25:009 Output to /home/abhishekt295/A37_dump/system/framework/am.dex
+12-04 15:26:25:436 Art version=45 (android.test.runner.odex)
+12-04 15:26:25:437 De-optimizing /system/framework/android.test.runner.jar
+12-04 15:26:25:862 Output to /home/abhishekt295/A37_dump/system/framework/android.test.runner.dex
+12-04 15:26:26:125 Art version=45 (appops.odex)
+12-04 15:26:26:126 De-optimizing /system/framework/appops.jar
+12-04 15:26:26:273 Output to /home/abhishekt295/A37_dump/system/framework/appops.dex
+12-04 15:26:26:526 Art version=45 (appwidget.odex)
+12-04 15:26:26:526 De-optimizing /system/framework/appwidget.jar
+12-04 15:26:26:636 Output to /home/abhishekt295/A37_dump/system/framework/appwidget.dex
+12-04 15:26:26:896 Art version=45 (bmgr.odex)
+12-04 15:26:26:897 De-optimizing /system/framework/bmgr.jar
+12-04 15:26:27:043 Output to /home/abhishekt295/A37_dump/system/framework/bmgr.dex
+12-04 15:26:27:303 Art version=45 (bu.odex)
+12-04 15:26:27:304 De-optimizing /system/framework/bu.jar
+12-04 15:26:27:429 Output to /home/abhishekt295/A37_dump/system/framework/bu.dex
+12-04 15:26:27:701 Art version=45 (coloros.support.odex)
+12-04 15:26:27:703 De-optimizing /system/framework/coloros.support.jar
+12-04 15:26:28:981 Output to /home/abhishekt295/A37_dump/system/framework/coloros.support.dex
+12-04 15:26:29:298 Art version=45 (com.android.future.usb.accessory.odex)
+12-04 15:26:29:299 De-optimizing /system/framework/com.android.future.usb.accessory.jar
+12-04 15:26:29:422 Output to /home/abhishekt295/A37_dump/system/framework/com.android.future.usb.accessory.dex
+12-04 15:26:29:727 Art version=45 (com.android.location.provider.odex)
+12-04 15:26:29:728 De-optimizing /system/framework/com.android.location.provider.jar
+12-04 15:26:29:939 Output to /home/abhishekt295/A37_dump/system/framework/com.android.location.provider.dex
+12-04 15:26:30:218 Art version=45 (com.android.mediadrm.signer.odex)
+12-04 15:26:30:219 De-optimizing /system/framework/com.android.mediadrm.signer.jar
+12-04 15:26:30:314 Output to /home/abhishekt295/A37_dump/system/framework/com.android.mediadrm.signer.dex
+12-04 15:26:30:557 Art version=45 (com.android.media.remotedisplay.odex)
+12-04 15:26:30:557 De-optimizing /system/framework/com.android.media.remotedisplay.jar
+12-04 15:26:30:689 Output to /home/abhishekt295/A37_dump/system/framework/com.android.media.remotedisplay.dex
+12-04 15:26:30:936 Art version=45 (com.coloros.statistics.odex)
+12-04 15:26:30:937 De-optimizing /system/framework/com.coloros.statistics.jar
+12-04 15:26:31:186 Output to /home/abhishekt295/A37_dump/system/framework/com.coloros.statistics.dex
+12-04 15:26:31:558 Art version=45 (com.google.widevine.software.drm.odex)
+12-04 15:26:31:559 De-optimizing /system/framework/com.google.widevine.software.drm.jar
+12-04 15:26:31:638 Output to /home/abhishekt295/A37_dump/system/framework/com.google.widevine.software.drm.dex
+12-04 15:26:31:895 Art version=45 (com.nearme.romupdate.bugly.odex)
+12-04 15:26:31:896 De-optimizing /system/framework/com.nearme.romupdate.bugly.jar
+12-04 15:26:32:081 Output to /home/abhishekt295/A37_dump/system/framework/com.nearme.romupdate.bugly.dex
+12-04 15:26:32:369 Art version=45 (com.quicinc.wbc.odex)
+12-04 15:26:32:369 De-optimizing /system/framework/com.quicinc.wbc.jar
+12-04 15:26:32:519 Output to /home/abhishekt295/A37_dump/system/framework/com.quicinc.wbc.dex
+12-04 15:26:32:765 Art version=45 (com.quicinc.wbcservice.odex)
+12-04 15:26:32:766 De-optimizing /system/framework/com.quicinc.wbcservice.jar
+12-04 15:26:32:915 Output to /home/abhishekt295/A37_dump/system/framework/com.quicinc.wbcservice.dex
+12-04 15:26:33:197 Art version=45 (content.odex)
+12-04 15:26:33:197 De-optimizing /system/framework/content.jar
+12-04 15:26:33:367 Output to /home/abhishekt295/A37_dump/system/framework/content.dex
+12-04 15:26:33:640 Art version=45 (dpm.odex)
+12-04 15:26:33:641 De-optimizing /system/framework/dpm.jar
+12-04 15:26:33:760 Output to /home/abhishekt295/A37_dump/system/framework/dpm.dex
+12-04 15:26:34:123 Art version=45 (ethernet-service.odex)
+12-04 15:26:34:123 De-optimizing /system/framework/ethernet-service.jar
+12-04 15:26:34:299 Output to /home/abhishekt295/A37_dump/system/framework/ethernet-service.dex
+12-04 15:26:34:591 Art version=45 (ime.odex)
+12-04 15:26:34:591 De-optimizing /system/framework/ime.jar
+12-04 15:26:34:757 Output to /home/abhishekt295/A37_dump/system/framework/ime.dex
+12-04 15:26:35:082 Art version=45 (input.odex)
+12-04 15:26:35:083 De-optimizing /system/framework/input.jar
+12-04 15:26:35:259 Output to /home/abhishekt295/A37_dump/system/framework/input.dex
+12-04 15:26:35:559 Art version=45 (javax.btobex.odex)
+12-04 15:26:35:560 De-optimizing /system/framework/javax.btobex.jar
+12-04 15:26:35:954 Output to /home/abhishekt295/A37_dump/system/framework/javax.btobex.dex
+12-04 15:26:36:222 Art version=45 (javax.obex.odex)
+12-04 15:26:36:223 De-optimizing /system/framework/javax.obex.jar
+12-04 15:26:36:528 Output to /home/abhishekt295/A37_dump/system/framework/javax.obex.dex
+12-04 15:26:36:785 Art version=45 (media_cmd.odex)
+12-04 15:26:36:785 De-optimizing /system/framework/media_cmd.jar
+12-04 15:26:36:930 Output to /home/abhishekt295/A37_dump/system/framework/media_cmd.dex
+12-04 15:26:37:194 Art version=45 (monkey.odex)
+12-04 15:26:37:195 De-optimizing /system/framework/monkey.jar
+12-04 15:26:37:587 Output to /home/abhishekt295/A37_dump/system/framework/monkey.dex
+12-04 15:26:37:853 Art version=45 (org.codeaurora.Performance.odex)
+12-04 15:26:37:854 De-optimizing /system/framework/org.codeaurora.Performance.jar
+12-04 15:26:37:991 Output to /home/abhishekt295/A37_dump/system/framework/org.codeaurora.Performance.dex
+12-04 15:26:38:254 Art version=45 (pm.odex)
+12-04 15:26:38:255 De-optimizing /system/framework/pm.jar
+12-04 15:26:38:466 Output to /home/abhishekt295/A37_dump/system/framework/pm.dex
+12-04 15:26:38:711 Art version=45 (qcnvitems.odex)
+12-04 15:26:38:712 De-optimizing /system/framework/qcnvitems.jar
+12-04 15:26:39:058 Output to /home/abhishekt295/A37_dump/system/framework/qcnvitems.dex
+12-04 15:26:39:299 Art version=45 (qcrilhook.odex)
+12-04 15:26:39:300 De-optimizing /system/framework/qcrilhook.jar
+12-04 15:26:39:676 Output to /home/abhishekt295/A37_dump/system/framework/qcrilhook.dex
+12-04 15:26:39:949 Art version=45 (requestsync.odex)
+12-04 15:26:39:950 De-optimizing /system/framework/requestsync.jar
+12-04 15:26:40:069 Output to /home/abhishekt295/A37_dump/system/framework/requestsync.dex
+12-04 15:26:40:327 Art version=45 (services.odex)
+12-04 15:26:40:332 De-optimizing /system/framework/services.jar
+12-04 15:26:44:720 Output to /home/abhishekt295/A37_dump/system/framework/services.dex
+12-04 15:26:45:325 Art version=45 (settings.odex)
+12-04 15:26:45:325 De-optimizing /system/framework/settings.jar
+12-04 15:26:45:471 Output to /home/abhishekt295/A37_dump/system/framework/settings.dex
+12-04 15:26:45:765 Art version=45 (svc.odex)
+12-04 15:26:45:766 De-optimizing /system/framework/svc.jar
+12-04 15:26:45:909 Output to /home/abhishekt295/A37_dump/system/framework/svc.dex
+12-04 15:26:46:180 Art version=45 (uiautomator.odex)
+12-04 15:26:46:180 De-optimizing /system/framework/uiautomator.jar
+12-04 15:26:46:564 Output to /home/abhishekt295/A37_dump/system/framework/uiautomator.dex
+12-04 15:26:46:839 Art version=45 (wifi-service.odex)
+12-04 15:26:46:842 De-optimizing /system/framework/wifi-service.jar
+12-04 15:26:47:912 Output to /home/abhishekt295/A37_dump/system/framework/wifi-service.dex
+12-04 15:26:48:228 Art version=45 (wm.odex)
+12-04 15:26:48:229 De-optimizing /system/framework/wm.jar
+12-04 15:26:48:347 Output to /home/abhishekt295/A37_dump/system/framework/wm.dex
+12-04 15:26:48:624 Art version=45 (arm64/AntHalService.odex)
+12-04 15:26:48:624 De-optimizing /system/app/AntHalService/AntHalService.apk
+12-04 15:26:48:793 Output to /home/abhishekt295/A37_dump/system/app/AntHalService/arm64/AntHalService.dex
+12-04 15:26:49:035 Art version=45 (arm64/ApplicationsProvider.odex)
+12-04 15:26:49:035 De-optimizing /system/app/ApplicationsProvider/ApplicationsProvider.apk
+12-04 15:26:49:204 Output to /home/abhishekt295/A37_dump/system/app/ApplicationsProvider/arm64/ApplicationsProvider.dex
+12-04 15:26:49:462 Art version=45 (arm64/ArabicPack.odex)
+12-04 15:26:49:462 De-optimizing /system/app/ArabicPack/ArabicPack.apk
+12-04 15:26:49:552 Output to /home/abhishekt295/A37_dump/system/app/ArabicPack/arm64/ArabicPack.dex
+12-04 15:26:49:818 Art version=45 (arm64/atfwd.odex)
+12-04 15:26:49:818 De-optimizing /system/app/atfwd/atfwd.apk
+12-04 15:26:50:037 Output to /home/abhishekt295/A37_dump/system/app/atfwd/arm64/atfwd.dex
+12-04 15:26:50:291 Art version=45 (arm64/BackupRestoreRemoteService.odex)
+12-04 15:26:50:292 De-optimizing /system/app/BackupRestoreRemoteService/BackupRestoreRemoteService.apk
+12-04 15:26:50:454 Output to /home/abhishekt295/A37_dump/system/app/BackupRestoreRemoteService/arm64/BackupRestoreRemoteService.dex
+12-04 15:26:50:682 Art version=45 (arm64/BasicDreams.odex)
+12-04 15:26:50:683 De-optimizing /system/app/BasicDreams/BasicDreams.apk
+12-04 15:26:50:827 Output to /home/abhishekt295/A37_dump/system/app/BasicDreams/arm64/BasicDreams.dex
+12-04 15:26:51:055 Art version=45 (arm64/BengaliPack.odex)
+12-04 15:26:51:056 De-optimizing /system/app/BengaliPack/BengaliPack.apk
+12-04 15:26:51:152 Output to /home/abhishekt295/A37_dump/system/app/BengaliPack/arm64/BengaliPack.dex
+12-04 15:26:51:410 Art version=45 (arm64/BurmesePack.odex)
+12-04 15:26:51:411 De-optimizing /system/app/BurmesePack/BurmesePack.apk
+12-04 15:26:51:511 Output to /home/abhishekt295/A37_dump/system/app/BurmesePack/arm64/BurmesePack.dex
+12-04 15:26:51:746 Art version=45 (arm64/Calculator.odex)
+12-04 15:26:51:747 De-optimizing /system/app/Calculator/Calculator.apk
+12-04 15:26:52:128 Output to /home/abhishekt295/A37_dump/system/app/Calculator/arm64/Calculator.dex
+12-04 15:26:52:397 Art version=45 (arm64/CaptivePortalLogin.odex)
+12-04 15:26:52:397 De-optimizing /system/app/CaptivePortalLogin/CaptivePortalLogin.apk
+12-04 15:26:52:528 Output to /home/abhishekt295/A37_dump/system/app/CaptivePortalLogin/arm64/CaptivePortalLogin.dex
+12-04 15:26:52:764 Art version=45 (arm64/CertInstaller.odex)
+12-04 15:26:52:764 De-optimizing /system/app/CertInstaller/CertInstaller.apk
+12-04 15:26:52:977 Output to /home/abhishekt295/A37_dump/system/app/CertInstaller/arm64/CertInstaller.dex
+12-04 15:26:53:230 Art version=45 (arm64/ChromeWithBrowser.odex)
+12-04 15:26:53:237 De-optimizing /system/app/ChromeWithBrowser/ChromeWithBrowser.apk
+12-04 15:26:56:102 Output to /home/abhishekt295/A37_dump/system/app/ChromeWithBrowser/arm64/ChromeWithBrowser.dex
+12-04 15:26:56:790 Art version=45 (arm64/ChtPack.odex)
+12-04 15:26:56:791 De-optimizing /system/app/ChtPack/ChtPack.apk
+12-04 15:26:56:881 Output to /home/abhishekt295/A37_dump/system/app/ChtPack/arm64/ChtPack.dex
+12-04 15:26:57:138 Art version=45 (arm64/ColorAppServicesManager.odex)
+12-04 15:26:57:139 De-optimizing /system/app/ColorAppServicesManager/ColorAppServicesManager.apk
+12-04 15:26:57:313 Output to /home/abhishekt295/A37_dump/system/app/ColorAppServicesManager/arm64/ColorAppServicesManager.dex
+12-04 15:26:57:564 Art version=45 (arm64/ColorScreenshot.odex)
+12-04 15:26:57:565 De-optimizing /system/app/ColorScreenshot/ColorScreenshot.apk
+12-04 15:26:58:176 Output to /home/abhishekt295/A37_dump/system/app/ColorScreenshot/arm64/ColorScreenshot.dex
+12-04 15:26:58:452 Art version=45 (arm64/colorservice.odex)
+12-04 15:26:58:453 De-optimizing /system/app/colorservice/colorservice.apk
+12-04 15:26:58:619 Output to /home/abhishekt295/A37_dump/system/app/colorservice/arm64/colorservice.dex
+12-04 15:26:58:869 Art version=45 (arm64/ColorUIEngine.odex)
+12-04 15:26:58:870 De-optimizing /system/app/ColorUIEngine/ColorUIEngine.apk
+12-04 15:26:59:501 Output to /home/abhishekt295/A37_dump/system/app/ColorUIEngine/arm64/ColorUIEngine.dex
+12-04 15:26:59:777 Art version=45 (arm64/ConfigUpdater.odex)
+12-04 15:26:59:783 De-optimizing /system/app/ConfigUpdater/ConfigUpdater.apk
+12-04 15:27:02:174 Output to /home/abhishekt295/A37_dump/system/app/ConfigUpdater/arm64/ConfigUpdater.dex
+12-04 15:27:02:650 Art version=45 (arm64/DayDreamVideo.odex)
+12-04 15:27:02:651 De-optimizing /system/app/DayDreamVideo/DayDreamVideo.apk
+12-04 15:27:02:849 Output to /home/abhishekt295/A37_dump/system/app/DayDreamVideo/arm64/DayDreamVideo.dex
+12-04 15:27:03:190 Art version=45 (arm64/DiracAudioControlService.odex)
+12-04 15:27:03:191 De-optimizing /system/app/DiracAudioControlService/DiracAudioControlService.apk
+12-04 15:27:03:897 Output to /home/abhishekt295/A37_dump/system/app/DiracAudioControlService/arm64/DiracAudioControlService.dex
+12-04 15:27:04:179 Art version=45 (arm64/DlnaService.odex)
+12-04 15:27:04:182 De-optimizing /system/app/DlnaService/DlnaService.apk
+12-04 15:27:05:296 Output to /home/abhishekt295/A37_dump/system/app/DlnaService/arm64/DlnaService.dex
+12-04 15:27:05:623 Art version=45 (arm64/DocumentsUI.odex)
+12-04 15:27:05:627 De-optimizing /system/app/DocumentsUI/DocumentsUI.apk
+12-04 15:27:07:254 Output to /home/abhishekt295/A37_dump/system/app/DocumentsUI/arm64/DocumentsUI.dex
+12-04 15:27:07:629 Art version=45 (arm64/DownloaderCenterUI.odex)
+12-04 15:27:07:630 De-optimizing /system/app/DownloaderCenterUI/DownloaderCenterUI.apk
+12-04 15:27:08:021 Output to /home/abhishekt295/A37_dump/system/app/DownloaderCenterUI/arm64/DownloaderCenterUI.dex
+12-04 15:27:08:274 Art version=45 (arm64/Drive.odex)
+12-04 15:27:08:290 De-optimizing /system/app/Drive/Drive.apk
+12-04 15:27:09:296 Analysis error in class=Lcom/google/android/apps/docs/database/AccountMetadataTable$Field; method=<clinit>
+Method: Lcom/google/android/apps/docs/database/AccountMetadataTable$Field;-><clinit>()V
+Near line: 3215 (address 31)
+Instructions: 
+ [14] sget-object regA=7
+ [15] invoke-direct regC=4 regD=6 regE=7
+ [16] iput-quick regA=1 regB=4 <-----
+ [17] sget-object regA=6
+ [18] sget-object regA=7
+
+12-04 15:27:09:296 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 36 in <clinit>
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:27:09:296 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:27:09:297 convertToDex: skip /system/app/Drive/Drive.apk
+12-04 15:27:09:557 Art version=45 (arm64/Dumplog.odex)
+12-04 15:27:09:558 De-optimizing /system/app/Dumplog/Dumplog.apk
+12-04 15:27:09:767 Output to /home/abhishekt295/A37_dump/system/app/Dumplog/arm64/Dumplog.dex
+12-04 15:27:10:006 Art version=45 (arm64/EngineeringMode.odex)
+12-04 15:27:10:012 De-optimizing /system/app/EngineeringMode/EngineeringMode.apk
+12-04 15:27:11:768 Output to /home/abhishekt295/A37_dump/system/app/EngineeringMode/arm64/EngineeringMode.dex
+12-04 15:27:12:126 Art version=45 (arm64/EnglishgbPack.odex)
+12-04 15:27:12:126 De-optimizing /system/app/EnglishgbPack/EnglishgbPack.apk
+12-04 15:27:12:215 Output to /home/abhishekt295/A37_dump/system/app/EnglishgbPack/arm64/EnglishgbPack.dex
+12-04 15:27:12:466 Art version=45 (arm64/EngSpecialTest.odex)
+12-04 15:27:12:467 De-optimizing /system/app/EngSpecialTest/EngSpecialTest.apk
+12-04 15:27:12:649 Output to /home/abhishekt295/A37_dump/system/app/EngSpecialTest/arm64/EngSpecialTest.dex
+12-04 15:27:12:975 Art version=45 (arm64/fastdormancy.odex)
+12-04 15:27:12:976 De-optimizing /system/app/fastdormancy/fastdormancy.apk
+12-04 15:27:13:131 Output to /home/abhishekt295/A37_dump/system/app/fastdormancy/arm64/fastdormancy.dex
+12-04 15:27:13:382 Art version=45 (arm64/Fingerprint.odex)
+12-04 15:27:13:384 De-optimizing /system/app/Fingerprint/Fingerprint.apk
+12-04 15:27:14:023 Output to /home/abhishekt295/A37_dump/system/app/Fingerprint/arm64/Fingerprint.dex
+12-04 15:27:14:296 Art version=45 (arm64/FM2.odex)
+12-04 15:27:14:297 De-optimizing /system/app/FM2/FM2.apk
+12-04 15:27:14:988 Output to /home/abhishekt295/A37_dump/system/app/FM2/arm64/FM2.dex
+12-04 15:27:15:269 Art version=45 (arm64/FrenchPack.odex)
+12-04 15:27:15:269 De-optimizing /system/app/FrenchPack/FrenchPack.apk
+12-04 15:27:15:358 Output to /home/abhishekt295/A37_dump/system/app/FrenchPack/arm64/FrenchPack.dex
+12-04 15:27:15:619 Art version=45 (arm64/FrozenKeyboard_com.thihaayekyaw.frozenkeyboard_2.odex)
+12-04 15:27:15:619 De-optimizing /system/app/FrozenKeyboard_com.thihaayekyaw.frozenkeyboard_2/FrozenKeyboard_com.thihaayekyaw.frozenkeyboard_2.apk
+12-04 15:27:15:785 Output to /home/abhishekt295/A37_dump/system/app/FrozenKeyboard_com.thihaayekyaw.frozenkeyboard_2/arm64/FrozenKeyboard_com.thihaayekyaw.frozenkeyboard_2.dex
+12-04 15:27:16:045 Art version=45 (arm64/Gmail2.odex)
+12-04 15:27:16:054 De-optimizing /system/app/Gmail2/Gmail2.apk
+12-04 15:27:19:692 Output to /home/abhishekt295/A37_dump/system/app/Gmail2/arm64/Gmail2.dex
+12-04 15:27:20:319 Art version=45 (arm64/GnssPowerSaver.odex)
+12-04 15:27:20:320 De-optimizing /system/app/GnssPowerSaver/GnssPowerSaver.apk
+12-04 15:27:20:836 Output to /home/abhishekt295/A37_dump/system/app/GnssPowerSaver/arm64/GnssPowerSaver.dex
+12-04 15:27:21:095 Art version=45 (arm64/GoogleCalendarSyncAdapter.odex)
+12-04 15:27:21:097 De-optimizing /system/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk
+12-04 15:27:22:223 Output to /home/abhishekt295/A37_dump/system/app/GoogleCalendarSyncAdapter/arm64/GoogleCalendarSyncAdapter.dex
+12-04 15:27:22:539 Art version=45 (arm64/GoogleContactsSyncAdapter.odex)
+12-04 15:27:22:541 De-optimizing /system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
+12-04 15:27:23:241 Output to /home/abhishekt295/A37_dump/system/app/GoogleContactsSyncAdapter/arm64/GoogleContactsSyncAdapter.dex
+12-04 15:27:23:526 Art version=45 (arm64/GrandmotherLauncher.odex)
+12-04 15:27:23:528 De-optimizing /system/app/GrandmotherLauncher/GrandmotherLauncher.apk
+12-04 15:27:24:596 Output to /home/abhishekt295/A37_dump/system/app/GrandmotherLauncher/arm64/GrandmotherLauncher.dex
+12-04 15:27:24:910 Art version=45 (arm64/GsmTuneAway.odex)
+12-04 15:27:24:911 De-optimizing /system/app/GsmTuneAway/GsmTuneAway.apk
+12-04 15:27:25:038 Output to /home/abhishekt295/A37_dump/system/app/GsmTuneAway/arm64/GsmTuneAway.dex
+12-04 15:27:25:280 Art version=45 (arm64/HindiPack.odex)
+12-04 15:27:25:280 De-optimizing /system/app/HindiPack/HindiPack.apk
+12-04 15:27:25:373 Output to /home/abhishekt295/A37_dump/system/app/HindiPack/arm64/HindiPack.dex
+12-04 15:27:25:616 Art version=45 (arm64/HTMLViewer.odex)
+12-04 15:27:25:616 De-optimizing /system/app/HTMLViewer/HTMLViewer.apk
+12-04 15:27:25:718 Output to /home/abhishekt295/A37_dump/system/app/HTMLViewer/arm64/HTMLViewer.dex
+12-04 15:27:25:969 Art version=45 (arm64/InCallUI.odex)
+12-04 15:27:25:974 De-optimizing /system/app/InCallUI/InCallUI.apk
+12-04 15:27:27:823 Output to /home/abhishekt295/A37_dump/system/app/InCallUI/arm64/InCallUI.dex
+12-04 15:27:28:344 Art version=45 (arm64/IndonesianPack.odex)
+12-04 15:27:28:345 De-optimizing /system/app/IndonesianPack/IndonesianPack.apk
+12-04 15:27:28:437 Output to /home/abhishekt295/A37_dump/system/app/IndonesianPack/arm64/IndonesianPack.dex
+12-04 15:27:28:677 Art version=45 (arm64/InterfacePermissions.odex)
+12-04 15:27:28:678 De-optimizing /system/app/InterfacePermissions/InterfacePermissions.apk
+12-04 15:27:28:773 Output to /home/abhishekt295/A37_dump/system/app/InterfacePermissions/arm64/InterfacePermissions.dex
+12-04 15:27:29:019 Art version=45 (arm64/KazakhPack.odex)
+12-04 15:27:29:020 De-optimizing /system/app/KazakhPack/KazakhPack.apk
+12-04 15:27:29:107 Output to /home/abhishekt295/A37_dump/system/app/KazakhPack/arm64/KazakhPack.dex
+12-04 15:27:29:348 Art version=45 (arm64/Keep.odex)
+12-04 15:27:29:357 De-optimizing /system/app/Keep/Keep.apk
+12-04 15:27:33:038 Output to /home/abhishekt295/A37_dump/system/app/Keep/arm64/Keep.dex
+12-04 15:27:33:655 Art version=45 (arm64/KeyChain.odex)
+12-04 15:27:33:656 De-optimizing /system/app/KeyChain/KeyChain.apk
+12-04 15:27:33:853 Output to /home/abhishekt295/A37_dump/system/app/KeyChain/arm64/KeyChain.dex
+12-04 15:27:34:102 Art version=45 (arm64/KeyguardNotification.odex)
+12-04 15:27:34:102 De-optimizing /system/app/KeyguardNotification/KeyguardNotification.apk
+12-04 15:27:34:385 Output to /home/abhishekt295/A37_dump/system/app/KeyguardNotification/arm64/KeyguardNotification.dex
+12-04 15:27:34:668 Art version=45 (arm64/KhmerPack.odex)
+12-04 15:27:34:669 De-optimizing /system/app/KhmerPack/KhmerPack.apk
+12-04 15:27:34:764 Output to /home/abhishekt295/A37_dump/system/app/KhmerPack/arm64/KhmerPack.dex
+12-04 15:27:35:024 Art version=45 (arm64/Locationpicker.odex)
+12-04 15:27:35:031 De-optimizing /system/app/Locationpicker/Locationpicker.apk
+12-04 15:27:38:221 Output to /home/abhishekt295/A37_dump/system/app/Locationpicker/arm64/Locationpicker.dex
+12-04 15:27:38:696 Art version=45 (arm64/LogKitSdService.odex)
+12-04 15:27:38:697 De-optimizing /system/app/LogKitSdService/LogKitSdService.apk
+12-04 15:27:38:850 Output to /home/abhishekt295/A37_dump/system/app/LogKitSdService/arm64/LogKitSdService.dex
+12-04 15:27:39:093 Art version=45 (arm64/MalayanPack.odex)
+12-04 15:27:39:094 De-optimizing /system/app/MalayanPack/MalayanPack.apk
+12-04 15:27:39:191 Output to /home/abhishekt295/A37_dump/system/app/MalayanPack/arm64/MalayanPack.dex
+12-04 15:27:39:454 Art version=45 (arm64/Maps.odex)
+12-04 15:27:39:485 De-optimizing /system/app/Maps/Maps.apk
+12-04 15:27:40:401 Analysis error in class=Lcom/b/a/m; method=<clinit>
+Method: Lcom/b/a/m;-><clinit>()V
+Near line: 6343 (address 149)
+Instructions: 
+ [78] invoke-direct regC=0 regD=1
+ [79] throw regA=0
+ [80] iput-quick regA=6 regB=0 <-----
+ [81] new-instance regA=2
+ [82] invoke-direct regC=2 regD=0
+
+12-04 15:27:40:402 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 20 in <clinit>
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:27:40:402 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:27:40:402 convertToDex: skip /system/app/Maps/Maps.apk
+12-04 15:27:40:402 De-optimizing /system/app/Maps/Maps.apk:classes2.dex
+12-04 15:27:44:284 Output to /home/abhishekt295/A37_dump/system/app/Maps/arm64/Maps-classes2.dex
+12-04 15:27:44:628 Art version=45 (arm64/MCS.odex)
+12-04 15:27:44:635 De-optimizing /system/app/MCS/MCS.apk
+12-04 15:27:48:043 Output to /home/abhishekt295/A37_dump/system/app/MCS/arm64/MCS.dex
+12-04 15:27:48:553 Art version=45 (arm64/Music2.odex)
+12-04 15:27:48:569 De-optimizing /system/app/Music2/Music2.apk
+12-04 15:27:51:728 Analysis error in class=Lcom/google/android/music/utils/AlbumArtUtils; method=<clinit>
+Method: Lcom/google/android/music/utils/AlbumArtUtils;-><clinit>()V
+Near line: 596 (address 73)
+Instructions: 
+ [34] iput-quick regA=3 regB=0
+ [35] sget-object regA=0
+ [36] iput-quick regA=2 regB=0 <-----
+ [37] sget-object regA=0
+ [38] iput-quick regA=2 regB=0
+
+12-04 15:27:51:728 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 72 in <clinit>
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:27:51:728 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:27:51:728 convertToDex: skip /system/app/Music2/Music2.apk
+12-04 15:27:51:728 De-optimizing /system/app/Music2/Music2.apk:classes2.dex
+12-04 15:27:52:525 Output to /home/abhishekt295/A37_dump/system/app/Music2/arm64/Music2-classes2.dex
+12-04 15:27:52:851 Art version=45 (arm64/NearMeSync-V2.1.0.odex)
+12-04 15:27:52:855 De-optimizing /system/app/NearMeSync-V2.1.0/NearMeSync-V2.1.0.apk
+12-04 15:27:55:314 Output to /home/abhishekt295/A37_dump/system/app/NearMeSync-V2.1.0/arm64/NearMeSync-V2.1.0.dex
+12-04 15:27:55:819 Art version=45 (arm64/NepaliTradPack.odex)
+12-04 15:27:55:820 De-optimizing /system/app/NepaliTradPack/NepaliTradPack.apk
+12-04 15:27:55:912 Output to /home/abhishekt295/A37_dump/system/app/NepaliTradPack/arm64/NepaliTradPack.dex
+12-04 15:27:56:229 Art version=45 (arm64/NetworkSetting.odex)
+12-04 15:27:56:229 De-optimizing /system/app/NetworkSetting/NetworkSetting.apk
+12-04 15:27:56:404 Output to /home/abhishekt295/A37_dump/system/app/NetworkSetting/arm64/NetworkSetting.dex
+12-04 15:27:56:671 Art version=45 (arm64/notification_center.odex)
+12-04 15:27:56:672 De-optimizing /system/app/notification_center/notification_center.apk
+12-04 15:27:57:099 Output to /home/abhishekt295/A37_dump/system/app/notification_center/arm64/notification_center.dex
+12-04 15:27:57:378 Art version=45 (arm64/Ocloud.odex)
+12-04 15:27:57:385 De-optimizing /system/app/Ocloud/Ocloud.apk
+12-04 15:27:59:762 Output to /home/abhishekt295/A37_dump/system/app/Ocloud/arm64/Ocloud.dex
+12-04 15:28:00:293 Art version=45 (arm64/OppoAfterServiceEx.odex)
+12-04 15:28:00:293 De-optimizing /system/app/OppoAfterServiceEx/OppoAfterServiceEx.apk
+12-04 15:28:00:521 Output to /home/abhishekt295/A37_dump/system/app/OppoAfterServiceEx/arm64/OppoAfterServiceEx.dex
+12-04 15:28:00:788 Art version=45 (arm64/OppoBootReg.odex)
+12-04 15:28:00:791 De-optimizing /system/app/OppoBootReg/OppoBootReg.apk
+12-04 15:28:01:750 Output to /home/abhishekt295/A37_dump/system/app/OppoBootReg/arm64/OppoBootReg.dex
+12-04 15:28:02:130 Art version=45 (arm64/OppoCriticalLogService.odex)
+12-04 15:28:02:130 De-optimizing /system/app/OppoCriticalLogService/OppoCriticalLogService.apk
+12-04 15:28:02:265 Output to /home/abhishekt295/A37_dump/system/app/OppoCriticalLogService/arm64/OppoCriticalLogService.dex
+12-04 15:28:02:528 Art version=45 (arm64/OppoDCS.odex)
+12-04 15:28:02:530 De-optimizing /system/app/OppoDCS/OppoDCS.apk
+12-04 15:28:03:564 Output to /home/abhishekt295/A37_dump/system/app/OppoDCS/arm64/OppoDCS.dex
+12-04 15:28:03:898 Art version=45 (arm64/OppoDebugTool.odex)
+12-04 15:28:03:899 De-optimizing /system/app/OppoDebugTool/OppoDebugTool.apk
+12-04 15:28:04:001 Output to /home/abhishekt295/A37_dump/system/app/OppoDebugTool/arm64/OppoDebugTool.dex
+12-04 15:28:04:281 Art version=45 (arm64/OppoDirac.odex)
+12-04 15:28:04:282 De-optimizing /system/app/OppoDirac/OppoDirac.apk
+12-04 15:28:04:685 Output to /home/abhishekt295/A37_dump/system/app/OppoDirac/arm64/OppoDirac.dex
+12-04 15:28:04:938 Art version=45 (arm64/OppoDropboxChmodService.odex)
+12-04 15:28:04:939 De-optimizing /system/app/OppoDropboxChmodService/OppoDropboxChmodService.apk
+12-04 15:28:05:824 Output to /home/abhishekt295/A37_dump/system/app/OppoDropboxChmodService/arm64/OppoDropboxChmodService.dex
+12-04 15:28:06:121 Art version=45 (arm64/OppoExServiceUI.odex)
+12-04 15:28:06:122 De-optimizing /system/app/OppoExServiceUI/OppoExServiceUI.apk
+12-04 15:28:06:393 Output to /home/abhishekt295/A37_dump/system/app/OppoExServiceUI/arm64/OppoExServiceUI.dex
+12-04 15:28:06:726 Art version=45 (arm64/OppoForgotPasswordExp.odex)
+12-04 15:28:06:726 De-optimizing /system/app/OppoForgotPasswordExp/OppoForgotPasswordExp.apk
+12-04 15:28:06:891 Output to /home/abhishekt295/A37_dump/system/app/OppoForgotPasswordExp/arm64/OppoForgotPasswordExp.dex
+12-04 15:28:07:140 Art version=45 (arm64/OppoGestureUI.odex)
+12-04 15:28:07:144 De-optimizing /system/app/OppoGestureUI/OppoGestureUI.apk
+12-04 15:28:07:915 Output to /home/abhishekt295/A37_dump/system/app/OppoGestureUI/arm64/OppoGestureUI.dex
+12-04 15:28:08:220 Art version=45 (arm64/OppoGoogleTranslateService.odex)
+12-04 15:28:08:220 De-optimizing /system/app/OppoGoogleTranslateService/OppoGoogleTranslateService.apk
+12-04 15:28:08:371 Output to /home/abhishekt295/A37_dump/system/app/OppoGoogleTranslateService/arm64/OppoGoogleTranslateService.dex
+12-04 15:28:08:626 Art version=45 (arm64/OppoGuardElf.odex)
+12-04 15:28:08:626 De-optimizing /system/app/OppoGuardElf/OppoGuardElf.apk
+12-04 15:28:09:140 Output to /home/abhishekt295/A37_dump/system/app/OppoGuardElf/arm64/OppoGuardElf.dex
+12-04 15:28:09:424 Art version=45 (arm64/OppoLeather.odex)
+12-04 15:28:09:426 De-optimizing /system/app/OppoLeather/OppoLeather.apk
+12-04 15:28:10:584 Output to /home/abhishekt295/A37_dump/system/app/OppoLeather/arm64/OppoLeather.dex
+12-04 15:28:10:969 Art version=45 (arm64/OppoLockScreenPictorial2.odex)
+12-04 15:28:10:970 De-optimizing /system/app/OppoLockScreenPictorial2/OppoLockScreenPictorial2.apk
+12-04 15:28:11:986 Output to /home/abhishekt295/A37_dump/system/app/OppoLockScreenPictorial2/arm64/OppoLockScreenPictorial2.dex
+12-04 15:28:12:365 Art version=45 (arm64/oppoMorningSystem.odex)
+12-04 15:28:12:365 De-optimizing /system/app/oppoMorningSystem/oppoMorningSystem.apk
+12-04 15:28:12:630 Output to /home/abhishekt295/A37_dump/system/app/oppoMorningSystem/arm64/oppoMorningSystem.dex
+12-04 15:28:12:913 Art version=45 (arm64/OppoNewSimDetect.odex)
+12-04 15:28:12:914 De-optimizing /system/app/OppoNewSimDetect/OppoNewSimDetect.apk
+12-04 15:28:13:202 Output to /home/abhishekt295/A37_dump/system/app/OppoNewSimDetect/arm64/OppoNewSimDetect.dex
+12-04 15:28:13:486 Art version=45 (arm64/OppoOperationManual.odex)
+12-04 15:28:13:487 De-optimizing /system/app/OppoOperationManual/OppoOperationManual.apk
+12-04 15:28:13:729 Output to /home/abhishekt295/A37_dump/system/app/OppoOperationManual/arm64/OppoOperationManual.dex
+12-04 15:28:14:021 Art version=45 (arm64/OppoPreventMode.odex)
+12-04 15:28:14:022 De-optimizing /system/app/OppoPreventMode/OppoPreventMode.apk
+12-04 15:28:14:169 Output to /home/abhishekt295/A37_dump/system/app/OppoPreventMode/arm64/OppoPreventMode.dex
+12-04 15:28:14:422 Art version=45 (arm64/OppoSdcardBoot.odex)
+12-04 15:28:14:422 De-optimizing /system/app/OppoSdcardBoot/OppoSdcardBoot.apk
+12-04 15:28:14:524 Output to /home/abhishekt295/A37_dump/system/app/OppoSdcardBoot/arm64/OppoSdcardBoot.dex
+12-04 15:28:14:803 Art version=45 (arm64/OppoUsbSelection.odex)
+12-04 15:28:14:803 De-optimizing /system/app/OppoUsbSelection/OppoUsbSelection.apk
+12-04 15:28:15:018 Output to /home/abhishekt295/A37_dump/system/app/OppoUsbSelection/arm64/OppoUsbSelection.dex
+12-04 15:28:15:294 Art version=45 (arm64/PackageInstaller.odex)
+12-04 15:28:15:297 De-optimizing /system/app/PackageInstaller/PackageInstaller.apk
+12-04 15:28:16:614 Output to /home/abhishekt295/A37_dump/system/app/PackageInstaller/arm64/PackageInstaller.dex
+12-04 15:28:16:960 Art version=45 (arm64/PacProcessor.odex)
+12-04 15:28:16:961 De-optimizing /system/app/PacProcessor/PacProcessor.apk
+12-04 15:28:17:087 Output to /home/abhishekt295/A37_dump/system/app/PacProcessor/arm64/PacProcessor.dex
+12-04 15:28:17:363 Art version=45 (arm64/PartnerBookmarksProvider.odex)
+12-04 15:28:17:363 De-optimizing /system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk
+12-04 15:28:17:566 Output to /home/abhishekt295/A37_dump/system/app/PartnerBookmarksProvider/arm64/PartnerBookmarksProvider.dex
+12-04 15:28:17:854 Art version=45 (arm64/PbapClient.odex)
+12-04 15:28:17:856 De-optimizing /system/app/PbapClient/PbapClient.apk
+12-04 15:28:18:655 Output to /home/abhishekt295/A37_dump/system/app/PbapClient/arm64/PbapClient.dex
+12-04 15:28:18:959 Art version=45 (arm64/PersianPack.odex)
+12-04 15:28:18:960 De-optimizing /system/app/PersianPack/PersianPack.apk
+12-04 15:28:19:053 Output to /home/abhishekt295/A37_dump/system/app/PersianPack/arm64/PersianPack.dex
+12-04 15:28:19:315 Art version=45 (arm64/PhoneNOAreaInquireProvider.odex)
+12-04 15:28:19:316 De-optimizing /system/app/PhoneNOAreaInquireProvider/PhoneNOAreaInquireProvider.apk
+12-04 15:28:19:598 Output to /home/abhishekt295/A37_dump/system/app/PhoneNOAreaInquireProvider/arm64/PhoneNOAreaInquireProvider.dex
+12-04 15:28:19:895 Art version=45 (arm64/PhotoTable.odex)
+12-04 15:28:19:896 De-optimizing /system/app/PhotoTable/PhotoTable.apk
+12-04 15:28:20:226 Output to /home/abhishekt295/A37_dump/system/app/PhotoTable/arm64/PhotoTable.dex
+12-04 15:28:20:547 Art version=45 (arm64/PinyinPack.odex)
+12-04 15:28:20:548 De-optimizing /system/app/PinyinPack/PinyinPack.apk
+12-04 15:28:20:683 Output to /home/abhishekt295/A37_dump/system/app/PinyinPack/arm64/PinyinPack.dex
+12-04 15:28:20:954 Art version=45 (arm64/PlayGames.odex)
+12-04 15:28:20:968 De-optimizing /system/app/PlayGames/PlayGames.apk
+12-04 15:28:21:915 Analysis error in class=Lcom/google/android/gms/appdatasearch/DocumentSection; method=<clinit>
+Method: Lcom/google/android/gms/appdatasearch/DocumentSection;-><clinit>()V
+Near line: -1 (address 24)
+Instructions: 
+ [10] invoke-direct regC=9 regD=0
+ [11] const/4 regA=0
+ [12] iput-quick regA=0 regB=9 <-----
+ [13] const-string regA=0
+ [14] iput-object-quick regA=0 regB=9
+
+12-04 15:28:21:916 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 40 in <clinit>
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:28:21:917 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:28:21:918 convertToDex: skip /system/app/PlayGames/PlayGames.apk
+12-04 15:28:22:220 Art version=45 (arm64/PrintSpooler.odex)
+12-04 15:28:22:222 De-optimizing /system/app/PrintSpooler/PrintSpooler.apk
+12-04 15:28:23:315 Output to /home/abhishekt295/A37_dump/system/app/PrintSpooler/arm64/PrintSpooler.dex
+12-04 15:28:23:621 Art version=45 (arm64/QComQMIPermissions.odex)
+12-04 15:28:23:621 De-optimizing /system/app/QComQMIPermissions/QComQMIPermissions.apk
+12-04 15:28:23:717 Output to /home/abhishekt295/A37_dump/system/app/QComQMIPermissions/arm64/QComQMIPermissions.dex
+12-04 15:28:24:019 Art version=45 (arm64/qcrilmsgtunnel.odex)
+12-04 15:28:24:020 De-optimizing /system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+12-04 15:28:24:223 Output to /home/abhishekt295/A37_dump/system/app/qcrilmsgtunnel/arm64/qcrilmsgtunnel.dex
+12-04 15:28:24:655 Art version=45 (arm64/QtiBackupAgent.odex)
+12-04 15:28:24:655 De-optimizing /system/app/QtiBackupAgent/QtiBackupAgent.apk
+12-04 15:28:24:867 Output to /home/abhishekt295/A37_dump/system/app/QtiBackupAgent/arm64/QtiBackupAgent.dex
+12-04 15:28:25:118 Art version=45 (arm64/RadioInfo.odex)
+12-04 15:28:25:119 De-optimizing /system/app/RadioInfo/RadioInfo.apk
+12-04 15:28:25:352 Output to /home/abhishekt295/A37_dump/system/app/RadioInfo/arm64/RadioInfo.dex
+12-04 15:28:25:630 Art version=45 (arm64/RecentTask.odex)
+12-04 15:28:25:631 De-optimizing /system/app/RecentTask/RecentTask.apk
+12-04 15:28:26:129 Output to /home/abhishekt295/A37_dump/system/app/RecentTask/arm64/RecentTask.dex
+12-04 15:28:26:468 Art version=45 (arm64/ResourceMonitor.odex)
+12-04 15:28:26:468 De-optimizing /system/app/ResourceMonitor/ResourceMonitor.apk
+12-04 15:28:26:752 Output to /home/abhishekt295/A37_dump/system/app/ResourceMonitor/arm64/ResourceMonitor.dex
+12-04 15:28:27:010 Art version=45 (arm64/RfTestApk.odex)
+12-04 15:28:27:012 De-optimizing /system/app/RfTestApk/RfTestApk.apk
+12-04 15:28:27:216 Output to /home/abhishekt295/A37_dump/system/app/RfTestApk/arm64/RfTestApk.dex
+12-04 15:28:27:468 Art version=45 (arm64/RomUpdate.odex)
+12-04 15:28:27:469 De-optimizing /system/app/RomUpdate/RomUpdate.apk
+12-04 15:28:27:994 Output to /home/abhishekt295/A37_dump/system/app/RomUpdate/arm64/RomUpdate.dex
+12-04 15:28:28:270 Art version=45 (arm64/RussianPack.odex)
+12-04 15:28:28:271 De-optimizing /system/app/RussianPack/RussianPack.apk
+12-04 15:28:28:370 Output to /home/abhishekt295/A37_dump/system/app/RussianPack/arm64/RussianPack.dex
+12-04 15:28:28:631 Art version=45 (arm64/SdCardService.odex)
+12-04 15:28:28:631 De-optimizing /system/app/SdCardService/SdCardService.apk
+12-04 15:28:28:839 Output to /home/abhishekt295/A37_dump/system/app/SdCardService/arm64/SdCardService.dex
+12-04 15:28:29:088 Art version=45 (arm64/Shelper.odex)
+12-04 15:28:29:089 De-optimizing /system/app/Shelper/Shelper.apk
+12-04 15:28:29:410 Output to /home/abhishekt295/A37_dump/system/app/Shelper/arm64/Shelper.dex
+12-04 15:28:29:673 Art version=45 (arm64/shutdownlistener.odex)
+12-04 15:28:29:674 De-optimizing /system/app/shutdownlistener/shutdownlistener.apk
+12-04 15:28:29:782 Output to /home/abhishekt295/A37_dump/system/app/shutdownlistener/arm64/shutdownlistener.dex
+12-04 15:28:30:030 Art version=45 (arm64/SimpleVistorMode.odex)
+12-04 15:28:30:032 De-optimizing /system/app/SimpleVistorMode/SimpleVistorMode.apk
+12-04 15:28:31:299 Output to /home/abhishekt295/A37_dump/system/app/SimpleVistorMode/arm64/SimpleVistorMode.dex
+12-04 15:28:31:617 Art version=45 (arm64/SinhalaPack.odex)
+12-04 15:28:31:618 De-optimizing /system/app/SinhalaPack/SinhalaPack.apk
+12-04 15:28:31:723 Output to /home/abhishekt295/A37_dump/system/app/SinhalaPack/arm64/SinhalaPack.dex
+12-04 15:28:31:976 Art version=45 (arm64/SkinPack0DefaultWhite.odex)
+12-04 15:28:31:977 De-optimizing /system/app/SkinPack0DefaultWhite/SkinPack0DefaultWhite.apk
+12-04 15:28:32:124 Output to /home/abhishekt295/A37_dump/system/app/SkinPack0DefaultWhite/arm64/SkinPack0DefaultWhite.dex
+12-04 15:28:32:499 Art version=45 (arm64/SpanishPack.odex)
+12-04 15:28:32:499 De-optimizing /system/app/SpanishPack/SpanishPack.apk
+12-04 15:28:32:602 Output to /home/abhishekt295/A37_dump/system/app/SpanishPack/arm64/SpanishPack.dex
+12-04 15:28:32:870 Art version=45 (arm64/Stk.odex)
+12-04 15:28:32:871 De-optimizing /system/app/Stk/Stk.apk
+12-04 15:28:33:219 Output to /home/abhishekt295/A37_dump/system/app/Stk/arm64/Stk.dex
+12-04 15:28:33:492 Art version=45 (arm64/SwahiliPack.odex)
+12-04 15:28:33:493 De-optimizing /system/app/SwahiliPack/SwahiliPack.apk
+12-04 15:28:33:586 Output to /home/abhishekt295/A37_dump/system/app/SwahiliPack/arm64/SwahiliPack.dex
+12-04 15:28:33:856 Art version=45 (arm64/SystemAppUpdateService.odex)
+12-04 15:28:33:857 De-optimizing /system/app/SystemAppUpdateService/SystemAppUpdateService.apk
+12-04 15:28:34:394 Output to /home/abhishekt295/A37_dump/system/app/SystemAppUpdateService/arm64/SystemAppUpdateService.dex
+12-04 15:28:34:664 Art version=45 (arm64/TagalogPack.odex)
+12-04 15:28:34:664 De-optimizing /system/app/TagalogPack/TagalogPack.apk
+12-04 15:28:34:762 Output to /home/abhishekt295/A37_dump/system/app/TagalogPack/arm64/TagalogPack.dex
+12-04 15:28:35:004 Art version=45 (arm64/talkback.odex)
+12-04 15:28:35:007 De-optimizing /system/app/talkback/talkback.apk
+12-04 15:28:36:671 Output to /home/abhishekt295/A37_dump/system/app/talkback/arm64/talkback.dex
+12-04 15:28:37:282 Art version=45 (arm64/TamilPack.odex)
+12-04 15:28:37:283 De-optimizing /system/app/TamilPack/TamilPack.apk
+12-04 15:28:37:391 Output to /home/abhishekt295/A37_dump/system/app/TamilPack/arm64/TamilPack.dex
+12-04 15:28:37:656 Art version=45 (arm64/TeluguPack.odex)
+12-04 15:28:37:657 De-optimizing /system/app/TeluguPack/TeluguPack.apk
+12-04 15:28:37:751 Output to /home/abhishekt295/A37_dump/system/app/TeluguPack/arm64/TeluguPack.dex
+12-04 15:28:38:003 Art version=45 (arm64/ThaiPack.odex)
+12-04 15:28:38:004 De-optimizing /system/app/ThaiPack/ThaiPack.apk
+12-04 15:28:38:147 Output to /home/abhishekt295/A37_dump/system/app/ThaiPack/arm64/ThaiPack.dex
+12-04 15:28:38:444 Art version=45 (arm64/TimeService.odex)
+12-04 15:28:38:446 De-optimizing /system/app/TimeService/TimeService.apk
+12-04 15:28:38:534 Output to /home/abhishekt295/A37_dump/system/app/TimeService/arm64/TimeService.dex
+12-04 15:28:38:795 Art version=45 (arm64/TurkishPack.odex)
+12-04 15:28:38:796 De-optimizing /system/app/TurkishPack/TurkishPack.apk
+12-04 15:28:39:561 Output to /home/abhishekt295/A37_dump/system/app/TurkishPack/arm64/TurkishPack.dex
+12-04 15:28:39:933 Art version=45 (arm64/UCService.odex)
+12-04 15:28:39:934 De-optimizing /system/app/UCService/UCService.apk
+12-04 15:28:40:788 Output to /home/abhishekt295/A37_dump/system/app/UCService/arm64/UCService.dex
+12-04 15:28:41:093 Art version=45 (arm64/UrduPack.odex)
+12-04 15:28:41:093 De-optimizing /system/app/UrduPack/UrduPack.apk
+12-04 15:28:41:201 Output to /home/abhishekt295/A37_dump/system/app/UrduPack/arm64/UrduPack.dex
+12-04 15:28:41:482 Art version=45 (arm64/usageDumper.odex)
+12-04 15:28:41:483 De-optimizing /system/app/usageDumper/usageDumper.apk
+12-04 15:28:41:650 Output to /home/abhishekt295/A37_dump/system/app/usageDumper/arm64/usageDumper.dex
+12-04 15:28:41:895 Art version=45 (arm64/UserDictionaryProvider.odex)
+12-04 15:28:41:895 De-optimizing /system/app/UserDictionaryProvider/UserDictionaryProvider.apk
+12-04 15:28:42:077 Output to /home/abhishekt295/A37_dump/system/app/UserDictionaryProvider/arm64/UserDictionaryProvider.dex
+12-04 15:28:42:365 Art version=45 (arm64/VietnamPack.odex)
+12-04 15:28:42:365 De-optimizing /system/app/VietnamPack/VietnamPack.apk
+12-04 15:28:42:479 Output to /home/abhishekt295/A37_dump/system/app/VietnamPack/arm64/VietnamPack.dex
+12-04 15:28:42:755 Art version=45 (arm64/WallpaperChooser.odex)
+12-04 15:28:42:755 De-optimizing /system/app/WallpaperChooser/WallpaperChooser.apk
+12-04 15:28:43:001 Output to /home/abhishekt295/A37_dump/system/app/WallpaperChooser/arm64/WallpaperChooser.dex
+12-04 15:28:43:266 Art version=45 (arm64/Wallpapers.odex)
+12-04 15:28:43:266 De-optimizing /system/app/Wallpapers/Wallpapers.apk
+12-04 15:28:43:359 Output to /home/abhishekt295/A37_dump/system/app/Wallpapers/arm64/Wallpapers.dex
+12-04 15:28:43:646 Art version=45 (arm64/WAPPushManager.odex)
+12-04 15:28:43:647 De-optimizing /system/app/WAPPushManager/WAPPushManager.apk
+12-04 15:28:43:854 Output to /home/abhishekt295/A37_dump/system/app/WAPPushManager/arm64/WAPPushManager.dex
+12-04 15:28:44:121 Art version=45 (arm64/WebViewGoogle.odex)
+12-04 15:28:44:123 De-optimizing /system/app/WebViewGoogle/WebViewGoogle.apk
+12-04 15:28:45:099 Output to /home/abhishekt295/A37_dump/system/app/WebViewGoogle/arm64/WebViewGoogle.dex
+12-04 15:28:45:432 Art version=45 (arm64/WfdService.odex)
+12-04 15:28:45:433 De-optimizing /system/app/WfdService/WfdService.apk
+12-04 15:28:45:726 Output to /home/abhishekt295/A37_dump/system/app/WfdService/arm64/WfdService.dex
+12-04 15:28:46:006 Art version=45 (arm64/xdivert.odex)
+12-04 15:28:46:007 De-optimizing /system/app/xdivert/xdivert.apk
+12-04 15:28:46:230 Output to /home/abhishekt295/A37_dump/system/app/xdivert/arm64/xdivert.dex
+12-04 15:28:46:508 Art version=45 (arm64/ZawgyiPack.odex)
+12-04 15:28:46:510 De-optimizing /system/app/ZawgyiPack/ZawgyiPack.apk
+12-04 15:28:46:616 Output to /home/abhishekt295/A37_dump/system/app/ZawgyiPack/arm64/ZawgyiPack.dex
+12-04 15:28:46:868 Art version=45 (arm64/AndroidForWork.odex)
+12-04 15:28:46:868 De-optimizing /system/priv-app/AndroidForWork/AndroidForWork.apk
+12-04 15:28:47:032 Output to /home/abhishekt295/A37_dump/system/priv-app/AndroidForWork/arm64/AndroidForWork.dex
+12-04 15:28:47:290 Art version=45 (arm64/BackupRestoreConfirmation.odex)
+12-04 15:28:47:290 De-optimizing /system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+12-04 15:28:47:420 Output to /home/abhishekt295/A37_dump/system/priv-app/BackupRestoreConfirmation/arm64/BackupRestoreConfirmation.dex
+12-04 15:28:47:672 Art version=45 (arm64/BlackList.odex)
+12-04 15:28:47:676 De-optimizing /system/priv-app/BlackList/BlackList.apk
+12-04 15:28:49:214 Output to /home/abhishekt295/A37_dump/system/priv-app/BlackList/arm64/BlackList.dex
+12-04 15:28:49:735 Art version=45 (arm64/CalendarProvider.odex)
+12-04 15:28:49:738 De-optimizing /system/priv-app/CalendarProvider/CalendarProvider.apk
+12-04 15:28:51:602 Output to /home/abhishekt295/A37_dump/system/priv-app/CalendarProvider/arm64/CalendarProvider.dex
+12-04 15:28:52:037 Art version=45 (arm64/CellBroadcastReceiver.odex)
+12-04 15:28:52:038 De-optimizing /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk
+12-04 15:28:52:448 Output to /home/abhishekt295/A37_dump/system/priv-app/CellBroadcastReceiver/arm64/CellBroadcastReceiver.dex
+12-04 15:28:52:730 Art version=45 (arm64/CNEService.odex)
+12-04 15:28:52:731 De-optimizing /system/priv-app/CNEService/CNEService.apk
+12-04 15:28:52:882 Output to /home/abhishekt295/A37_dump/system/priv-app/CNEService/arm64/CNEService.dex
+12-04 15:28:53:171 Art version=45 (arm64/com.qualcomm.location.odex)
+12-04 15:28:53:172 De-optimizing /system/priv-app/com.qualcomm.location/com.qualcomm.location.apk
+12-04 15:28:53:974 Output to /home/abhishekt295/A37_dump/system/priv-app/com.qualcomm.location/arm64/com.qualcomm.location.dex
+12-04 15:28:54:306 Art version=45 (arm64/Contacts.odex)
+12-04 15:28:54:323 De-optimizing /system/priv-app/Contacts/Contacts.apk
+12-04 15:28:58:697 Output to /home/abhishekt295/A37_dump/system/priv-app/Contacts/arm64/Contacts.dex
+12-04 15:28:59:398 Art version=45 (arm64/DefaultContainerService.odex)
+12-04 15:28:59:399 De-optimizing /system/priv-app/DefaultContainerService/DefaultContainerService.apk
+12-04 15:28:59:568 Output to /home/abhishekt295/A37_dump/system/priv-app/DefaultContainerService/arm64/DefaultContainerService.dex
+12-04 15:28:59:831 Art version=45 (arm64/DownloadProvider.odex)
+12-04 15:28:59:831 De-optimizing /system/priv-app/DownloadProvider/DownloadProvider.apk
+12-04 15:29:00:405 Output to /home/abhishekt295/A37_dump/system/priv-app/DownloadProvider/arm64/DownloadProvider.dex
+12-04 15:29:00:724 Art version=45 (arm64/ExternalStorageProvider.odex)
+12-04 15:29:00:725 De-optimizing /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+12-04 15:29:00:910 Output to /home/abhishekt295/A37_dump/system/priv-app/ExternalStorageProvider/arm64/ExternalStorageProvider.dex
+12-04 15:29:01:161 Art version=45 (arm64/FusedLocation.odex)
+12-04 15:29:01:162 De-optimizing /system/priv-app/FusedLocation/FusedLocation.apk
+12-04 15:29:01:305 Output to /home/abhishekt295/A37_dump/system/priv-app/FusedLocation/arm64/FusedLocation.dex
+12-04 15:29:01:555 Art version=45 (arm64/GoogleBackupTransport.odex)
+12-04 15:29:01:556 De-optimizing /system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk
+12-04 15:29:02:222 Output to /home/abhishekt295/A37_dump/system/priv-app/GoogleBackupTransport/arm64/GoogleBackupTransport.dex
+12-04 15:29:02:526 Art version=45 (arm64/GoogleFeedback.odex)
+12-04 15:29:02:528 De-optimizing /system/priv-app/GoogleFeedback/GoogleFeedback.apk
+12-04 15:29:03:107 Output to /home/abhishekt295/A37_dump/system/priv-app/GoogleFeedback/arm64/GoogleFeedback.dex
+12-04 15:29:03:408 Art version=45 (arm64/GoogleLoginService.odex)
+12-04 15:29:03:415 De-optimizing /system/priv-app/GoogleLoginService/GoogleLoginService.apk
+12-04 15:29:05:355 Output to /home/abhishekt295/A37_dump/system/priv-app/GoogleLoginService/arm64/GoogleLoginService.dex
+12-04 15:29:05:782 Art version=45 (arm64/GoogleOneTimeInitializer.odex)
+12-04 15:29:05:783 De-optimizing /system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+12-04 15:29:06:428 Output to /home/abhishekt295/A37_dump/system/priv-app/GoogleOneTimeInitializer/arm64/GoogleOneTimeInitializer.dex
+12-04 15:29:06:726 Art version=45 (arm64/GooglePartnerSetup.odex)
+12-04 15:29:06:727 De-optimizing /system/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
+12-04 15:29:07:318 Output to /home/abhishekt295/A37_dump/system/priv-app/GooglePartnerSetup/arm64/GooglePartnerSetup.dex
+12-04 15:29:07:638 Art version=45 (arm64/GoogleServicesFramework.odex)
+12-04 15:29:07:641 De-optimizing /system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+12-04 15:29:09:133 Output to /home/abhishekt295/A37_dump/system/priv-app/GoogleServicesFramework/arm64/GoogleServicesFramework.dex
+12-04 15:29:09:519 Art version=45 (arm64/IgniteSingtel.odex)
+12-04 15:29:09:524 De-optimizing /system/priv-app/IgniteSingtel/IgniteSingtel.apk
+12-04 15:29:12:323 Output to /home/abhishekt295/A37_dump/system/priv-app/IgniteSingtel/arm64/IgniteSingtel.dex
+12-04 15:29:12:795 Art version=45 (arm64/InputDevices.odex)
+12-04 15:29:12:796 De-optimizing /system/priv-app/InputDevices/InputDevices.apk
+12-04 15:29:12:888 Output to /home/abhishekt295/A37_dump/system/priv-app/InputDevices/arm64/InputDevices.dex
+12-04 15:29:13:157 Art version=45 (arm64/Keyguard.odex)
+12-04 15:29:13:159 De-optimizing /system/priv-app/Keyguard/Keyguard.apk
+12-04 15:29:14:283 Output to /home/abhishekt295/A37_dump/system/priv-app/Keyguard/arm64/Keyguard.dex
+12-04 15:29:14:628 Art version=45 (arm64/ManagedProvisioning.odex)
+12-04 15:29:14:630 De-optimizing /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+12-04 15:29:15:381 Output to /home/abhishekt295/A37_dump/system/priv-app/ManagedProvisioning/arm64/ManagedProvisioning.dex
+12-04 15:29:15:682 Art version=45 (arm64/MmsService.odex)
+12-04 15:29:15:683 De-optimizing /system/priv-app/MmsService/MmsService.apk
+12-04 15:29:16:081 Output to /home/abhishekt295/A37_dump/system/priv-app/MmsService/arm64/MmsService.dex
+12-04 15:29:16:374 Art version=45 (arm64/MySingTel.odex)
+12-04 15:29:16:389 De-optimizing /system/priv-app/MySingTel/MySingTel.apk
+12-04 15:29:18:472 Analysis error in class=Lcom/singtel/mysingtel/ui/fragments/usage/local/TweakPlanFragment; method=initViews
+Method: Lcom/singtel/mysingtel/ui/fragments/usage/local/TweakPlanFragment;->initViews(Landroid/view/View;)V
+Near line: 90 (address 16)
+Instructions: 
+ [7] move-result-object regA=5
+ [8] check-cast regA=5
+ [9] iput-object-quick regA=5 regB=14 <-----
+ [10] const regA=5
+ [11] invoke-virtual-quick regC=15 regD=5
+
+12-04 15:29:18:472 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 260 in initViews
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:29:18:473 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:29:18:473 convertToDex: skip /system/priv-app/MySingTel/MySingTel.apk
+12-04 15:29:18:760 Art version=45 (arm64/Omacp.odex)
+12-04 15:29:18:761 De-optimizing /system/priv-app/Omacp/Omacp.apk
+12-04 15:29:19:263 Output to /home/abhishekt295/A37_dump/system/priv-app/Omacp/arm64/Omacp.dex
+12-04 15:29:19:570 Art version=45 (arm64/oppoEmail.odex)
+12-04 15:29:19:588 De-optimizing /system/priv-app/oppoEmail/oppoEmail.apk
+12-04 15:29:25:852 Output to /home/abhishekt295/A37_dump/system/priv-app/oppoEmail/arm64/oppoEmail.dex
+12-04 15:29:26:692 Art version=45 (arm64/OppoSimSettings.odex)
+12-04 15:29:26:695 De-optimizing /system/priv-app/OppoSimSettings/OppoSimSettings.apk
+12-04 15:29:28:777 Output to /home/abhishekt295/A37_dump/system/priv-app/OppoSimSettings/arm64/OppoSimSettings.dex
+12-04 15:29:29:270 Art version=45 (arm64/OppoWirelessSettings.odex)
+12-04 15:29:29:275 De-optimizing /system/priv-app/OppoWirelessSettings/OppoWirelessSettings.apk
+12-04 15:29:30:056 Analysis error in class=Lcom/coloros/wirelesssettings/wifi/OppoAnimationView; method=<init>
+Method: Lcom/coloros/wirelesssettings/wifi/OppoAnimationView;-><init>(Landroid/content/Context;)V
+Near line: 29 (address 107)
+Instructions: 
+ [49] fill-array-data regA=2
+ [50] aput-object regA=2 regB=0 regC=1
+ [51] iput-object-quick regA=0 regB=8 <-----
+ [52] const/16 regA=0
+ [53] new-array regA=0 regB=0
+
+12-04 15:29:30:056 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 412 in <init>
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:29:30:056 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:29:30:056 convertToDex: skip /system/priv-app/OppoWirelessSettings/OppoWirelessSettings.apk
+12-04 15:29:30:333 Art version=45 (arm64/Phonesky.odex)
+12-04 15:29:30:349 De-optimizing /system/priv-app/Phonesky/Phonesky.apk
+12-04 15:29:32:140 Analysis error in class=Lcom/google/android/finsky/layout/play/PlayCardActionBannerClusterRepository; method=<clinit>
+Method: Lcom/google/android/finsky/layout/play/PlayCardActionBannerClusterRepository;-><clinit>()V
+Near line: 1240 (address 26)
+Instructions: 
+ [13] invoke-virtual-quick regC=1 regD=2 regE=3 regF=5
+ [14] move-result-object regA=1
+ [15] iput-quick regA=6 regB=1 <-----
+ [16] iput-quick regA=6 regB=1
+ [17] aput-object regA=1 regB=0 regC=5
+
+12-04 15:29:32:140 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 40 in <clinit>
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:29:32:141 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:29:32:141 convertToDex: skip /system/priv-app/Phonesky/Phonesky.apk
+12-04 15:29:32:436 Art version=45 (arm64/ProxyHandler.odex)
+12-04 15:29:32:437 De-optimizing /system/priv-app/ProxyHandler/ProxyHandler.apk
+12-04 15:29:32:591 Output to /home/abhishekt295/A37_dump/system/priv-app/ProxyHandler/arm64/ProxyHandler.dex
+12-04 15:29:32:842 Art version=45 (arm64/Settings.odex)
+12-04 15:29:32:854 De-optimizing /system/priv-app/Settings/Settings.apk
+12-04 15:29:34:313 Analysis error in class=Lcom/oppo/settings/exp/oppowizard/AnimationView; method=<init>
+Method: Lcom/oppo/settings/exp/oppowizard/AnimationView;-><init>(Landroid/content/Context;)V
+Near line: 17 (address 107)
+Instructions: 
+ [49] fill-array-data regA=2
+ [50] aput-object regA=2 regB=0 regC=1
+ [51] iput-object-quick regA=0 regB=8 <-----
+ [52] const/16 regA=0
+ [53] new-array regA=0 regB=0
+
+12-04 15:29:34:314 org.jf.dexlib2.analysis.AnalysisException: Could not resolve the field in class (Null) at offset 412 in <init>
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeIputIgetQuick(MethodAnalyzer.java:2408)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyzeInstruction(MethodAnalyzer.java:1269)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.analyze(MethodAnalyzer.java:259)
+	at org.jf.dexlib2.analysis.MethodAnalyzer.<init>(MethodAnalyzer.java:190)
+	at org.rh.smaliex.DexUtil$ODexRewriterModule$1$1.getInstructions(DexUtil.java:505)
+	...(Skip 24 traces)
+	at org.rh.smaliex.OatUtil.convertToDex(OatUtil.java:321)
+	at org.rh.smaliex.OatUtil.convertDexFromBootOat(OatUtil.java:244)
+	at org.rh.smaliex.OatUtil.oat2dex(OatUtil.java:146)
+	at org.rh.smaliex.Main.mainImpl(Main.java:122)
+	at org.rh.smaliex.Main.main(Main.java:42)
+
+12-04 15:29:34:315 Failed to re-construct dex java.lang.ClassCastException: org.jf.dexlib2.analysis.UnresolvedOdexInstruction cannot be cast to org.jf.dexlib2.iface.instruction.formats.Instruction22cs
+12-04 15:29:34:315 convertToDex: skip /system/priv-app/Settings/Settings.apk
+12-04 15:29:34:623 Art version=45 (arm64/SettingsProvider.odex)
+12-04 15:29:34:623 De-optimizing /system/priv-app/SettingsProvider/SettingsProvider.apk
+12-04 15:29:35:091 Output to /home/abhishekt295/A37_dump/system/priv-app/SettingsProvider/arm64/SettingsProvider.dex
+12-04 15:29:35:404 Art version=45 (arm64/SharedStorageBackup.odex)
+12-04 15:29:35:405 De-optimizing /system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+12-04 15:29:35:558 Output to /home/abhishekt295/A37_dump/system/priv-app/SharedStorageBackup/arm64/SharedStorageBackup.dex
+12-04 15:29:35:827 Art version=45 (arm64/Shell.odex)
+12-04 15:29:35:828 De-optimizing /system/priv-app/Shell/Shell.apk
+12-04 15:29:36:598 Output to /home/abhishekt295/A37_dump/system/priv-app/Shell/arm64/Shell.dex
+12-04 15:29:36:918 Art version=45 (arm64/SystemUI.odex)
+12-04 15:29:36:924 De-optimizing /system/priv-app/SystemUI/SystemUI.apk
+12-04 15:29:38:824 Output to /home/abhishekt295/A37_dump/system/priv-app/SystemUI/arm64/SystemUI.dex
+12-04 15:29:39:324 Art version=45 (arm64/TagGoogle.odex)
+12-04 15:29:39:325 De-optimizing /system/priv-app/TagGoogle/TagGoogle.apk
+12-04 15:29:40:015 Output to /home/abhishekt295/A37_dump/system/priv-app/TagGoogle/arm64/TagGoogle.dex
+12-04 15:29:40:360 Art version=45 (arm64/TapFix.odex)
+12-04 15:29:40:364 De-optimizing /system/priv-app/TapFix/TapFix.apk
+12-04 15:29:41:736 Output to /home/abhishekt295/A37_dump/system/priv-app/TapFix/arm64/TapFix.dex
+12-04 15:29:42:101 Art version=45 (arm64/Telecom.odex)
+12-04 15:29:42:102 De-optimizing /system/priv-app/Telecom/Telecom.apk
+12-04 15:29:43:134 Output to /home/abhishekt295/A37_dump/system/priv-app/Telecom/arm64/Telecom.dex
+12-04 15:29:43:533 Art version=45 (arm64/TelephonyProvider.odex)
+12-04 15:29:43:534 De-optimizing /system/priv-app/TelephonyProvider/TelephonyProvider.apk
+12-04 15:29:44:648 Output to /home/abhishekt295/A37_dump/system/priv-app/TelephonyProvider/arm64/TelephonyProvider.dex
+12-04 15:29:45:030 Art version=45 (arm64/TeleService.odex)
+12-04 15:29:45:032 De-optimizing /system/priv-app/TeleService/TeleService.apk
+12-04 15:29:46:685 Output to /home/abhishekt295/A37_dump/system/priv-app/TeleService/arm64/TeleService.dex
+12-04 15:29:47:211 Art version=45 (arm64/Velvet.odex)
+12-04 15:29:47:231 De-optimizing /system/priv-app/Velvet/Velvet.apk
+12-04 15:29:52:710 Output to /home/abhishekt295/A37_dump/system/priv-app/Velvet/arm64/Velvet.dex
+12-04 15:29:53:762 Art version=45 (arm64/VpnDialogs.odex)
+12-04 15:29:53:763 De-optimizing /system/priv-app/VpnDialogs/VpnDialogs.apk
+12-04 15:29:53:940 Output to /home/abhishekt295/A37_dump/system/priv-app/VpnDialogs/arm64/VpnDialogs.dex
+12-04 15:29:54:223 Art version=45 (arm64/WallpaperCropper.odex)
+12-04 15:29:54:224 De-optimizing /system/priv-app/WallpaperCropper/WallpaperCropper.apk
+12-04 15:29:54:953 Output to /home/abhishekt295/A37_dump/system/priv-app/WallpaperCropper/arm64/WallpaperCropper.dex
+12-04 15:29:55:324 Art version=45 (arm64/ims.odex)
+12-04 15:29:55:326 De-optimizing /system/vendor/app/ims/ims.apk
+12-04 15:29:56:120 Output to /home/abhishekt295/A37_dump/system/vendor/app/ims/arm64/ims.dex
